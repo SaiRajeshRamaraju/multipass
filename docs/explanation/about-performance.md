@@ -38,4 +38,4 @@ The number of CPUs allocated to a Multipass instance has a direct impact on the 
 
 ### Memory
 
-As with cores, the amount of memory allocated to a Multipass instance will also have a direct on its performance. This is also dependent on the intended workload of instances. Naturally, more memory intensive workloads provide much larger gains in performance if more memory is allocated to the instance.
+As with cores, the amount of memory allocated to a Multipass instance will also have a direct impact on its performance. This is also dependent on the intended workload of instances. Naturally, more memory intensive workloads provide much larger gains in performance if more memory is allocated to the instance.
